@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861884245930",
+    "project_id": "react-native-thuchanh-buoi3",
+    "storage_bucket": "react-native-thuchanh-buoi3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861884245930:android:9f127f92d6f0e66712add3",
+        "android_client_info": {
+          "package_name": "com.mynewapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA5ExW39kX9NDOeMM74fawVbdlO2cizWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

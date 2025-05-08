@@ -1,0 +1,23 @@
+# Build & dependency folders
+node_modules/
+android/.gradle/
+android/app/build/
+android/app/.cxx/
+ios/Pods/
+ios/build/
+
+# VSCode & IDE settings
+.vscode/
+.idea/
+*.iml
+
+# System files
+.DS_Store
+
+# Logs
+*.log
+
+# Others
+.env
+.bundle/
+build/
